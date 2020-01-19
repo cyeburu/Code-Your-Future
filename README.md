@@ -1,5 +1,5 @@
 # Code-Your-Future
 Cynthia
-My name
+My first name
 
 Learning GitHub
